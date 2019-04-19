@@ -1,4 +1,3 @@
-// Helen Belete
 // This is the node class for the HuffmanNode program
 
 import java.io.*;
