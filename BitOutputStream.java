@@ -1,3 +1,4 @@
+// from U of Washington
 // The BitOutputStream and BitInputStream classes provide the ability to
 // write and read individual bits to a file in a compact form.  One major
 // limitation of this approach is that the resulting file will always have
