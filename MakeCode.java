@@ -1,3 +1,4 @@
+// from U of Washington
 // MakeCode prompts the user for an input file name and a code file name.  It
 // examines the input file for the frequencies of characters and then uses a
 // Huffman tree to generate codes to use for each character so as to compress
