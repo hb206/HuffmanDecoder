@@ -1,3 +1,4 @@
+// from U of Washington
 // Encode prompts the user for an input file name, a code file name and the
 // name to use for the binary (encoded) output file.  It assumes that MakeCode
 // has been run to generate a Huffman tree appropriate for encoding the input
