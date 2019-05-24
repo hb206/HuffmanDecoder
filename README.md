@@ -1,5 +1,5 @@
 ### HuffmanDecoder
-Program that can compress and decompress files without losing data using Huffman Encoding
+Program that can compress and decompress files without losing data using Huffman Encoding. HuffmanTree and HuffmanNode written by me.
 ## Preliminary Step:
 Run MakeCode.Java, input name of the file you'd like to use (hamlet.txt) and an output file to store codes (hamlet.code). This generates the codes needed to encode and decode the file.
 ## To Encode:
