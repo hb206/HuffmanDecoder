@@ -27,8 +27,7 @@ public class HuffmanTree {
       numbers.add(new HuffmanNode(1, count.length));
       // takes the 2 HuffmanNodes with the lowest frequencies and
       // creates a new HuffmanNode whose frequency is sum of the two 
-      // we are combining. add the subtree back to queue. character chodes are
-      // created by using 
+      // we are combining. add the subtree back to queue. 
       while (numbers.size() > 1) {
          HuffmanNode leftNode = numbers.remove();
          HuffmanNode rightNode = numbers.remove();
